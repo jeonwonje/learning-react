@@ -11,7 +11,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://{github-username}.github.io/{repo-name}",
+  "homepage": "https://jeonwonje.github.io/learning-react",
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
